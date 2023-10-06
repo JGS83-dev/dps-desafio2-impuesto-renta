@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "dps-desafio2-impuesto-renta",
+    "slug": "dps-desafio2-impuesto-renta",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "dps-desafio2-impuesto-renta"
+}
