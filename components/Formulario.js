@@ -50,6 +50,7 @@ const Formulario = ({navigation}) => {
                             
                                 style={styles.input}
                                 required
+                                pattern="^[0-9]+$"
                             />
                         </View>
 
